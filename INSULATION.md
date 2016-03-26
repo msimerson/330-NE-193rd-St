@@ -11,4 +11,5 @@
 
 ### References
 
+* [Seattle Dept. of Construction & Inspections](http://www.seattle.gov/dpd/codesrules/codes/energy/overview/)
 * [DoE EnergyStar Recommended Levels of Insulation](https://www.energystar.gov/index.cfm?c=home_sealing.hm_improvement_insulation_table)
