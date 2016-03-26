@@ -2,7 +2,7 @@
 ### insulation standards
 
 | location | City of Seattle | Super R |
-| -------- | ------- | -------- |
+| -------- | -------: | --------: |
 | walls    | 21      | 40 | 
 | wall headers       | 10 | 
 | ceiling  | 49      | 60 |
