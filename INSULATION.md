@@ -9,6 +9,20 @@
 | below grade wall | 10 outside or 15 inside | |
 | floor    | 30      | 25-30 |   |
 
+### insulation products
+
+| name | type  | R/inch  | cost / sq. in
+| XPS  | board | 5 | 
+| EPS  | board | 3.8
+| polyiso | board | 5.6-8
+| polyurethane | spray foam | 5.5-6.5
+| FoamItGreen | spray foam | 7
+| HD fiberglass | batts | 4.3
+| MD fiberglass | batts | 3.7
+| fiberglass    | batts | 3.1
+| cellulose    | loose fill | 3.6
+| cellulose  | dense packed | 3.8
+
 ### References
 
 * [Seattle Dept. of Construction & Inspections](http://www.seattle.gov/dpd/codesrules/codes/energy/overview/)
