@@ -12,6 +12,7 @@
 ### insulation products
 
 | name | type  | R/inch  | cost / sq. in
+| ---- | ------- | --------: | --------: |
 | XPS  | board | 5 | 
 | EPS  | board | 3.8
 | polyiso | board | 5.6-8
