@@ -21,6 +21,7 @@
 | HD fiberglass | batts | 4.3 | 
 | MD fiberglass | batts | 3.7 | 
 | fiberglass    | batts | 3.1 | $0.85
+| fiberglass    | blown | 2.5 |
 | cellulose    | loose fill | 3.6 | 
 | cellulose  | dense packed | 3.8 |
 
