@@ -11,18 +11,18 @@
 
 ### insulation products
 
-| name | type  | R/inch  | cost / sq. in
+| name | type  | R/inch  | $ / sq. in
 | ---- | ------- | --------: | --------: |
-| XPS  | board | 5 | 
-| EPS  | board | 3.8
-| polyiso | board | 5.6-8
-| polyurethane | spray foam | 5.5-6.5
-| FoamItGreen | spray foam | 7
-| HD fiberglass | batts | 4.3
-| MD fiberglass | batts | 3.7
-| fiberglass    | batts | 3.1
-| cellulose    | loose fill | 3.6
-| cellulose  | dense packed | 3.8
+| XPS  | board | 5 | $0.60
+| EPS  | board | 3.8 |
+| polyiso | board | 5.6-8 |
+| polyurethane | spray foam | 5.5-6.5 |
+| FoamItGreen | spray foam | 7 | $1.20
+| HD fiberglass | batts | 4.3 | 
+| MD fiberglass | batts | 3.7 | 
+| fiberglass    | batts | 3.1 | $0.0005
+| cellulose    | loose fill | 3.6 | 
+| cellulose  | dense packed | 3.8 |
 
 ### References
 
