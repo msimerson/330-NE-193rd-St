@@ -16,6 +16,7 @@
 | XPS  | board | 5 | $0.60
 | EPS  | board | 3.8 |
 | polyiso | board | 5.6-8 |
+| foamglas | board | 3.8 | 
 | polyurethane | spray foam | 5.5-6.5 |
 | FoamItGreen | spray foam | 7 | $1.20
 | HD fiberglass | batts | 4.3 | 
