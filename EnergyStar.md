@@ -2,6 +2,7 @@
 
 * [Energy Star Certified](https://www.energystar.gov/index.cfm?c=new_homes.hm_index&s=mega)
 * [ENERGY STAR Certified Homes Version 3 Program Requirements](https://www.energystar.gov/index.cfm?c=bldrs_lenders_raters.nh_v3_guidelines)
+* [https://www.energystar.gov/index.cfm?c=bldrs_lenders_raters.nh_v3_1](https://www.energystar.gov/index.cfm?c=bldrs_lenders_raters.nh_v3_1)
 * [ENERGY STAR Certified Homes - National Program Requirements for the Northwest](https://www.energystar.gov/index.cfm?c=bldrs_lenders_raters.nh_v3_northwest)
 * [Rater Design Review Checklist](https://www.energystar.gov/ia/partners/bldrs_lenders_raters/downloads/Rater_Checklists.pdf?a7de-b268)
 
