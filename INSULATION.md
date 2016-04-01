@@ -17,7 +17,7 @@
 | EPS  | board | 3.8 |
 | polyiso | board | 5.6-8 | $0.45
 | foamglas | board | 3.8 | 
-| polyurethane | spray foam | 5.5-6.5 |
+| ccSPF* | spray foam | 5.5-6.5 |
 | FoamItGreen | spray foam | 7 | $1.20
 | HD fiberglass | batts | 4.3 | 
 | MD fiberglass | batts | 3.7 | 
@@ -31,3 +31,11 @@
 * [Seattle Dept. of Construction & Inspections](http://www.seattle.gov/dpd/codesrules/codes/energy/overview/)
 * [DoE EnergyStar Recommended Levels of Insulation](https://www.energystar.gov/index.cfm?c=home_sealing.hm_improvement_insulation_table)
 * [DoE Adding Insulation to Existing House](http://web.ornl.gov/sci/roofs+walls/insulation/ins_06.html)
+* [Open vs Closed Cell Foam](http://www.energsmart.com/spray-foam-insulation/open-vs-closed-cell-foam.html)
+
+### closed cell Spray Polurethan Foam
+
+Examples:
+* [Foam It Green](https://www.sprayfoamkit.com)
+* [Honeywell](https://www.honeywell-blowingagents.com/applications/spray-polyurethane-foam-insulation/)
+* []()
