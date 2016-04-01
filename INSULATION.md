@@ -17,7 +17,8 @@
 | EPS  | board | 3.8 |
 | polyiso | board | 5.6-8 | $0.45
 | foamglas | board | 3.8 | 
-| ccSPF* | spray foam | 5.5-6.5 |
+| ocSPF*   | spray foam | 3.5-4 | 
+| ccSPF** | spray foam | 6.0-6.5 |
 | FoamItGreen | spray foam | 7 | $1.20
 | HD fiberglass | batts | 4.3 | 
 | MD fiberglass | batts | 3.7 | 
@@ -33,7 +34,9 @@
 * [DoE Adding Insulation to Existing House](http://web.ornl.gov/sci/roofs+walls/insulation/ins_06.html)
 * [Open vs Closed Cell Foam](http://www.energsmart.com/spray-foam-insulation/open-vs-closed-cell-foam.html)
 
-### closed cell Spray Polurethane Foam
+### * open cell Spray Polurethan Foam
+
+### **closed cell Spray Polurethane Foam
 
 Examples:
 * [Foam It Green](https://www.sprayfoamkit.com)
