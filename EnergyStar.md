@@ -2,7 +2,10 @@
 
 * [Energy Star Certified](https://www.energystar.gov/index.cfm?c=new_homes.hm_index&s=mega)
 * [ENERGY STAR Certified Homes Version 3 Program Requirements](https://www.energystar.gov/index.cfm?c=bldrs_lenders_raters.nh_v3_guidelines)
-* [https://www.energystar.gov/index.cfm?c=bldrs_lenders_raters.nh_v3_1](https://www.energystar.gov/index.cfm?c=bldrs_lenders_raters.nh_v3_1)
+* [ENERGY STAR Certified Homes - National Program Requirements](https://www.energystar.gov/index.cfm?c=bldrs_lenders_raters.nh_v3_1)
+    * [HVAC Design Report](https://www.energystar.gov/ia/partners/bldrs_lenders_raters/downloads/HVAC_Design_Report_v100_2015-011-20_clean_fillable.pdf?317c-cd1f)
+    * [HVAC Commissioning Checklist](https://www.energystar.gov/ia/partners/bldrs_lenders_raters/downloads/HVAC_Commissioning_Checklist_v99_nohighlight_2015-09-15_clean_fillable.pdf?317c-cd1f)
+    * [Water Management Requirements](https://www.energystar.gov/ia/partners/bldrs_lenders_raters/downloads/water_mgmt_sys_bldr_req.pdf?317c-cd1f)
 * [ENERGY STAR Certified Homes - National Program Requirements for the Northwest](https://www.energystar.gov/index.cfm?c=bldrs_lenders_raters.nh_v3_northwest)
 * [Rater Design Review Checklist](https://www.energystar.gov/ia/partners/bldrs_lenders_raters/downloads/Rater_Checklists.pdf?a7de-b268)
 
