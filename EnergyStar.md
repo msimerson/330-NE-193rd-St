@@ -21,15 +21,12 @@ Mixed and Cold Climates (2009 IECC Zones 4,5,6,7,8)
 * Water Heater
    * Electric: 40 Gal = 0.93 EF, 50 Gal = 0.92 EF
    * Gas: 40 Gal = 0.61 EF, 50 Gal = 0.59 EF
-
-Thermostat & Ductwork
+* Thermostat & Ductwork
     * Programmable thermostat modeled.
     * All ducts and air handlers modeled within conditioned space.
-
-Lighting & Appliances
+* Lighting & Appliances
     * ENERGY STAR refrigerators, dishwashers, and ceiling fans modeled.
     * ENERGY STAR light bulbs modeled in 90% of RESNET-defined Qualifying Light Fixture Locations.
-
 
 ### ENERGY STAR Certification Process
 
