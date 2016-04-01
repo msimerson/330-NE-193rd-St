@@ -33,7 +33,7 @@
 * [DoE Adding Insulation to Existing House](http://web.ornl.gov/sci/roofs+walls/insulation/ins_06.html)
 * [Open vs Closed Cell Foam](http://www.energsmart.com/spray-foam-insulation/open-vs-closed-cell-foam.html)
 
-### closed cell Spray Polurethan Foam
+### closed cell Spray Polurethane Foam
 
 Examples:
 * [Foam It Green](https://www.sprayfoamkit.com)
