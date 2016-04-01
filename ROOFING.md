@@ -1,4 +1,4 @@
-Roofing.md
+
 
 ### Steel Roofing
 
@@ -6,6 +6,12 @@ Roofing.md
 * 100% recyclable
 * standing seam requires no penetrations for solar panel mounting
 
+### Installed Cost
+
+Baseline price on 3/12 pitch, 26 gage: $4/sf.
+* Add $0.40/sf for 24 gage
+* Add $0.30/sf for 9/12 pitch
+* Add $0.50/sf for 12/12 pitch
 
 ### Vendors
 
