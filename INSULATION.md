@@ -32,9 +32,10 @@
 * [Seattle Dept. of Construction & Inspections](http://www.seattle.gov/dpd/codesrules/codes/energy/overview/)
 * [DoE EnergyStar Recommended Levels of Insulation](https://www.energystar.gov/index.cfm?c=home_sealing.hm_improvement_insulation_table)
 * [DoE Adding Insulation to Existing House](http://web.ornl.gov/sci/roofs+walls/insulation/ins_06.html)
-* [Open vs Closed Cell Foam](http://www.energsmart.com/spray-foam-insulation/open-vs-closed-cell-foam.html)
 
 ### * open cell Spray Polurethan Foam
+
+* [Open vs Closed Cell Foam](http://www.energsmart.com/spray-foam-insulation/open-vs-closed-cell-foam.html)
 
 ### **closed cell Spray Polurethane Foam
 
