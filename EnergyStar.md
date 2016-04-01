@@ -8,23 +8,19 @@
 
 Mixed and Cold Climates (2009 IECC Zones 4,5,6,7,8)
 
-Cooling Equipment (Where Provided)
-    13 SEER AC, Heat pump (See Heating Equipment)
-Heating Equipment
-    CZ4: 8.5 HSPF / 15 SEER / 12 EER air-source w/ electric or dual-fuel backup
-Envelope, Windows, & Doors
-    Insulation levels modeled to 2012 IECC levels and Grade I installation per RESNET standards.
-    Infiltration rates modeled as follows: 3 ACH50 in CZs 3,4,5,6,7,8
-
-    ENERGY STAR windows and doors modeled, as illustrated below:
-        Window U-Value: 0.30 in CZ 4 0.27 in CZs 5,6,7,8
-        Window SHGC:    0.40 in CZ 4 Any in CZs 5,6,7,8
-
-    Door U-Value: Opaque: 0.17 ≤1⁄2 lite: 0.25 >1⁄2 lite: 0.30
-    Door SHGC: Opaque: Any ≤1⁄2 lite: 0.25 >1⁄2 lite: 0.40 in CZs 4,5,6,7,8
-
-Water Heater
-    Electric: 40 Gal = 0.93 EF, 50 Gal = 0.92 EF
+* Cooling Equipment (Where Provided): 13 SEER AC, Heat pump (See Heating Equipment)
+* Heating Equipment: CZ4: 8.5 HSPF / 15 SEER / 12 EER air-source w/ electric or dual-fuel backup
+* Envelope, Windows, & Doors
+    * Insulation levels modeled to 2012 IECC levels and Grade I installation per RESNET standards.
+    * Infiltration rates modeled as follows: 3 ACH50 in CZs 3,4,5,6,7,8
+    * ENERGY STAR windows and doors modeled, as illustrated below:
+        * Window U-Value: 0.30 in CZ 4 0.27 in CZs 5,6,7,8
+        * Window SHGC:    0.40 in CZ 4 Any in CZs 5,6,7,8
+    * Door U-Value: Opaque: 0.17 ≤1⁄2 lite: 0.25 >1⁄2 lite: 0.30
+    * Door SHGC: Opaque: Any ≤1⁄2 lite: 0.25 >1⁄2 lite: 0.40 in CZs 4,5,6,7,8
+* Water Heater
+   * Electric: 40 Gal = 0.93 EF, 50 Gal = 0.92 EF
+   * Gas: 40 Gal = 0.61 EF, 50 Gal = 0.59 EF
 
 Thermostat & Ductwork
     * Programmable thermostat modeled.
