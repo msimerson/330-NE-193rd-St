@@ -33,24 +33,6 @@
 | board | R Max            | Thermasheath         | poly iso | 48        | 96        | 2         | 13.1    | 6.6    | 32           | 5          | 32.35 | $6.1      | $0.9          | 
 
 
-
-
-| name | type  | R/inch  | $ / sq. ft
-| ---- | ------- | --------: | --------: |
-| XPS  | board | 5 | $0.60
-| EPS  | board | 3.8 |
-| polyiso | board | 5.6-8 | $0.45
-| foamglas | board | 3.8 | 
-| ocSPF*   | spray foam | 3.5-4 | 
-| ccSPF** | spray foam | 6.0-6.5 |
-| FoamItGreen | spray foam | 7 | $1.20
-| HD fiberglass | batts | 4.3 | 
-| MD fiberglass | batts | 3.7 | 
-| fiberglass    | batts | 3.1 | $0.85
-| fiberglass    | blown | 2.5 |
-| cellulose    | loose fill | 3.6 | 
-| cellulose  | dense packed | 3.8 |
-
 ### References
 
 * [Seattle Dept. of Construction & Inspections](http://www.seattle.gov/dpd/codesrules/codes/energy/overview/)
