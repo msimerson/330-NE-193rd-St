@@ -11,7 +11,6 @@
 
 ### insulation products
 
-|       |                  |                      |          |           |           |           |         |        |              |            |       |           |               | 
 |-------|------------------|----------------------|----------|-----------|-----------|-----------|---------|--------|--------------|------------|-------|-----------|---------------| 
 | Form  | Manufacturer     | Product              | aka      | Width in. | Length in | Depth In. | R value | R / in | Coverage sf. | cubic feet | Price | Cost / cf | Cost / R / in | 
 | foam  | Foam It Green cc | closed cell          | ccSPF    |           |           | 1         |         | 6.5    | 1200         | 100        | $1429 | $14.3     | $2.2          | 
