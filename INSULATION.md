@@ -39,7 +39,11 @@
 * [DoE EnergyStar Recommended Levels of Insulation](https://www.energystar.gov/index.cfm?c=home_sealing.hm_improvement_insulation_table)
 * [DoE Adding Insulation to Existing House](http://web.ornl.gov/sci/roofs+walls/insulation/ins_06.html)
 
-### * open cell Spray Polurethan Foam
+### Bulk / Truckload Vendors
+* [Insulation Depot](http://www.insulationdepot.com/index.cfm)
+* Craigslist (3" PolyIso truckload: $7k)
+
+### * open cell Spray Polurethane Foam
 
 * [Open vs Closed Cell Foam](http://www.energsmart.com/spray-foam-insulation/open-vs-closed-cell-foam.html)
 
