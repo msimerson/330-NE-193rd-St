@@ -33,6 +33,7 @@
 * remove brick chimney (#19)
     * replace 80% efficient gas furnace (#3)
         * install mini-split heat pumps
+        * install energy recovery ventilator
     * install tankless electric water heater
 * replace two South roofs (#18)
 * kitchen renovation
