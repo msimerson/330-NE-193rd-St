@@ -38,7 +38,11 @@
 * replace two South roofs (#18)
 * kitchen renovation
     * island connecting with dining room
-    * spaces for toaster oven & microwave
+    * spaces for
+        * toaster oven
+        * microwave
+        * cookbooks
+        * spices
     * pantry
 * enlarge upstairs bathroom
     * expand into master closet
