@@ -43,6 +43,10 @@
         * microwave
         * cookbooks
         * spices
+    * task centers
+        * baking
+        * food storage
+        * prep
     * pantry
 * enlarge upstairs bathroom
     * expand into master closet
