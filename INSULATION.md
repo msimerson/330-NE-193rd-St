@@ -3,7 +3,7 @@
 
 | location | City of Seattle | EnergyStar Zone 4 | Super R |
 | -------- | -------: | --------: | --------: |
-| walls    | 21      | 16    | 40 |  |
+| walls    | 21      | 16, 25-30 | 40 |  |
 | wall headers       | 5     | 10 |  |
 | ceiling  | 49      | 38-60 | 60 |  |
 | below grade wall | 10 outside or 15 inside | |
