@@ -1,6 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=ready&title=Ready)](https://waffle.io/msimerson/330-NE-193rd-St)
 [![Stories in Progress](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=in%20progress&title=In%20Progress)](https://waffle.io/msimerson/330-NE-193rd-St)
-[![Stories Done](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=done&title=Done)](https://waffle.io/msimerson/330-NE-193rd-St)
 # 330 NE 193rd St
 
 Most of the interesting stuff is to be found in the [Issue Tracker](https://github.com/msimerson/330-NE-193rd-St/issues).
