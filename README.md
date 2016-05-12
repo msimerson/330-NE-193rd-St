@@ -14,8 +14,8 @@ On April 29th, 2016 our family took possession of 330 NE 193rd St. The house was
     * over-insulating, aiming for where code is likely to be in a few decades
     * fiberglass framed windows
 * **Net Zero**. Achieving Net Zero essentially means our home produces as much energy as we consume (think: electric bill = $0). The shortest path to achieving Net Zero is reducing consumption. The challenge is to do so without imposing burdens on the occupants. Then add energy production to the mix. Specific steps we're taking on our path to Net Zero are: 
-    * replace incandescent light bulbs with LED ([#9](../../issues/9), [#34](../../issues/34))
-    * replace older appliances with new high-efficiency ones [#14](../../issues/14), [#3](../../issues/3), [#35](../../issues/35), [#29](../../issues/29))
+    * replace incandescent light bulbs with LED ([incandescent](../../issues/9), [gu24 bulbs](../../issues/34))
+    * [replace older appliances with new high-efficiency ones](../../issues/14)
     * insulating the house ([#16](../../issues/16), [#4](../../issues/4), [#1](../../issues/1), [#22](../../issues/22), [#23](../../issues/23))
     * [replace single pane windows](../../issues/8)
     * [add solar panels](../../issues/13)
