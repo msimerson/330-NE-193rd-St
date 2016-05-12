@@ -1,10 +1,29 @@
+[![Stories in Backlog](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=&title=Backlog)](https://waffle.io/msimerson/330-NE-193rd-St)
 [![Stories in Ready](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=ready&title=Ready)](https://waffle.io/msimerson/330-NE-193rd-St)
 [![Stories in Progress](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=in%20progress&title=In%20Progress)](https://waffle.io/msimerson/330-NE-193rd-St)
+[![Stories in Pending](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=pending&title=Pending)](https://waffle.io/msimerson/330-NE-193rd-St)
 # 330 NE 193rd St
 
-Most of the interesting stuff is to be found in the [Issue Tracker](https://github.com/msimerson/330-NE-193rd-St/issues).
+### The Story
 
-There's also a few additional documents of interest.
+On April 29th, 2016 our family took possession of 330 NE 193rd St. The house was built in 1958 and extended in the late 70's. The house is vintage in many ways, including the original aluminum frame single-pane windows (#8) and an enormous three stall wood-floored garage made from 2.5" thick reclaimed lumber from pier __. Upon taking possession, we're in the midst of a [Deep Energy Retrofit](https://en.wikipedia.org/wiki/Deep_energy_retrofit) aiming at transforming the house into a [Net Zero Energy Building](https://en.wikipedia.org/wiki/Zero-energy_building).
+
+### Major Goals
+
+* **50 year durability**. Build systems such that they need little or no maintenance to gracefully support the structure and occupants for the next 50 years. Examples of where this goal affects choices are in:
+    * steel roofing
+    * over-insulating, aiming for where code is likely to be in a few decades
+    * fiberglass framed windows
+* **Net Zero**. Achieving Net Zero essentially means our home produces as much energy as we consume (think: electric bill = $0). The shortest path to achieving Net Zero is reducing consumption. The challenge is to do so without imposing burdens on the occupants. Then add energy production to the mix. Specific steps we're taking on our path to Net Zero are: 
+    * replace all incandescent light bulbs with LED (#9, #34)
+    * replace older appliances with new high-efficiency ones (#14, #3, #35, #29)
+    * insulating the house (#16, #4, #1, #22, #23)
+    * replace single pane windows (#8)
+    * add solar panels (#13)
+
+More details on these and other issues are found in the [Issue Tracker](https://github.com/msimerson/330-NE-193rd-St/issues).
+
+### reference documents
 
 | Name | Purpose |
 | ---- | -------- |
