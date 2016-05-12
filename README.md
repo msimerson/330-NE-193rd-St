@@ -1,4 +1,3 @@
-[![Stories in Backlog](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=&title=Backlog)](https://waffle.io/msimerson/330-NE-193rd-St)
 [![Stories in Ready](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=ready&title=Ready)](https://waffle.io/msimerson/330-NE-193rd-St)
 [![Stories in Progress](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=in%20progress&title=In%20Progress)](https://waffle.io/msimerson/330-NE-193rd-St)
 [![Stories in Pending](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=pending&title=Pending)](https://waffle.io/msimerson/330-NE-193rd-St)
