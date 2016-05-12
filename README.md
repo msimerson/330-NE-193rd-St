@@ -13,7 +13,7 @@ On April 29th, 2016 our family took possession of 330 NE 193rd St. The house was
     * steel roofing
     * over-insulating, aiming for where code is likely to be in a few decades
     * fiberglass framed windows
-* **Net Zero**. Achieving Net Zero essentially means our home produces as much energy as we consume (think: electric bill = $0). The shortest path to achieving Net Zero is reducing consumption. The challenge is to do so without imposing burdens on the occupants. Then add energy production to the mix. Specific steps we're taking on our path to Net Zero are: 
+* **Net Zero**. Achieving Net Zero would mean our home produces as much energy as we consume (electric bill = $0). The shortest path to achieving Net Zero is reducing consumption. The challenge is to do so without burdening the occupants. Then add energy production. Specific steps we're taking on our path to Net Zero are:
     * replace incandescent light bulbs with LED ([incandescent](../../issues/9), [gu24 bulbs](../../issues/34))
     * [replace older appliances with new high-efficiency ones](../../issues/14)
     * insulating the house ([walls](../../issues/16), [garage](../../issues/4), [floor](../../issues/1), [foundation walls](../../issues/22), [crawl space](../../issues/23))
