@@ -3,6 +3,8 @@
 [![Stories in Pending](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=pending&title=Pending)](https://waffle.io/msimerson/330-NE-193rd-St)
 # 330 NE 193rd St
 
+![Front of House](https://cloud.githubusercontent.com/assets/261635/15229020/c647f630-1843-11e6-8d34-6ab782d1749d.jpg)
+
 ### The Story
 
 On April 29th, 2016 our family took possession of 330 NE 193rd St. The house was built in 1958 and extended in the late 70's. The house is vintage in many ways, including the original aluminum frame single-pane windows ([#8](../../issues/8)) and an enormous three stall wood-floored garage made from 2.5" thick reclaimed lumber from pier __. Upon taking possession, we're in the midst of a [Deep Energy Retrofit](https://en.wikipedia.org/wiki/Deep_energy_retrofit) aiming at transforming the house into a [Net Zero Energy Building](https://en.wikipedia.org/wiki/Zero-energy_building).
