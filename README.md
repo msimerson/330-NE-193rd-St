@@ -7,7 +7,7 @@
 
 ### The Story
 
-On April 29th, 2016 our family took possession of 330 NE 193rd St. The house was built in 1958 and extended in the late 70's. The house is vintage in many ways, including the original aluminum frame single-pane windows ([#8](../../issues/8)) and an enormous three stall wood-floored garage made from 2.5" thick reclaimed lumber from pier __. Upon taking possession, we're in the midst of a [Deep Energy Retrofit](https://en.wikipedia.org/wiki/Deep_energy_retrofit) aiming at transforming the house into a [Net Zero Energy Building](https://en.wikipedia.org/wiki/Zero-energy_building).
+On April 29th, 2016 our family took possession of 330 NE 193rd St. The house was built in 1958 and extended in the late 70's. The house is vintage in many ways, including the original aluminum frame single-pane windows ([#8](../../issues/8)) and an enormous three stall wood-floored garage made from 2.5" thick reclaimed lumber from pier __. We're in the midst of a [Deep Energy Retrofit](https://en.wikipedia.org/wiki/Deep_energy_retrofit) aiming at transforming the house into a [Net Zero Energy Building](https://en.wikipedia.org/wiki/Zero-energy_building). 
 
 ### Major Goals
 
@@ -21,6 +21,9 @@ On April 29th, 2016 our family took possession of 330 NE 193rd St. The house was
     * insulating the house ([walls](../../issues/16), [garage](../../issues/4), [floor](../../issues/1), [foundation walls](../../issues/22), [crawl space](../../issues/23))
     * [replace single pane windows](../../issues/8)
     * [add solar panels](../../issues/13)
+* **Sustainability**. Sustainability is focused on the long term impacts of material and design choices.
+    * Steel roofing costs 20-50% more than composite roofing but lasts 3 times as long. Steel is 100% recycleable, doesn't burn (lower insurance costs), reflects sunlight (lower cooling costs), and weights half as much as shingle/composite roofs.
+    * Fiberglass windows cost more than high-quality vinyl but last 40% longer. Fiberglass expands and contracts at roughly the same rate as glass, greatly delaying seal failures. Fiberglass is 60% glass, which is recyclable. Fiberglass is paintable.
 
 More details on these and other issues are found in the [Issue Tracker](https://github.com/msimerson/330-NE-193rd-St/issues).
 
