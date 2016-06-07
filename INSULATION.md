@@ -38,6 +38,7 @@
 * [Seattle Dept. of Construction & Inspections](http://www.seattle.gov/dpd/codesrules/codes/energy/overview/)
 * [DoE EnergyStar Recommended Levels of Insulation](https://www.energystar.gov/index.cfm?c=home_sealing.hm_improvement_insulation_table)
 * [DoE Adding Insulation to Existing House](http://web.ornl.gov/sci/roofs+walls/insulation/ins_06.html)
+* [buyers guide to green insulation](http://www.greenhomeguide.com/know-how/article/buyers-guide-to-green-insulation)
 
 ### Bulk / Truckload Vendors
 * [Insulation Depot](http://www.insulationdepot.com/index.cfm)
