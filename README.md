@@ -13,7 +13,7 @@ On April 29th, 2016 our family took possession of 330 NE 193rd St. The house was
 
 * **50 year durability**. Build systems to require minimal maintenance to gracefully support the structure and occupants for 50 years. This goal affects choices like:
     * steel roofing
-    * super-insulating, aiming for where code is likely to be in a few decades
+    * [super-insulating](https://en.wikipedia.org/wiki/Superinsulation), aiming for where code is likely to be in a few decades
     * fiberglass framed windows
 * **Net Zero**. Achieving Net Zero would mean our home produces as much energy as we consume (electric bill = $0). The shortest path to achieving Net Zero is reducing consumption. The challenge is to do so without burdening the occupants. Then add energy production. Specific steps we're taking on our path to Net Zero are:
     * upgrade all lighting to LED ([incandescent](../../issues/9), [gu24 bulbs](../../issues/34))
