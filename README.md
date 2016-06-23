@@ -7,7 +7,7 @@
 
 ### The Story
 
-On April 29th, 2016 our family took possession of 330 NE 193rd St. The house was built in 1958 and extended in the late 70's. The house is vintage in many ways, including the original aluminum frame single-pane windows ([#8](../../issues/8)) and an enormous three stall wood-floored garage made from 3" reclaimed lumber from pier 91. We're in the midst of a [Deep Energy Retrofit](https://en.wikipedia.org/wiki/Deep_energy_retrofit) aiming at transforming the house into a [Net Zero Energy Building](https://en.wikipedia.org/wiki/Zero-energy_building). 
+On April 29th, 2016 our family took possession of 330 NE 193rd St. The house was built in 1958 and extended in the late 70's. The house is vintage in many ways, including the original aluminum frame single-pane windows ([#8](../../issues/8)) and an enormous three stall wood-floored garage made from 3" reclaimed lumber from pier 91. We're in the midst of a [Deep Energy Retrofit](https://en.wikipedia.org/wiki/Deep_energy_retrofit) aiming at transforming the house into a [Net Zero Energy Building](https://en.wikipedia.org/wiki/Zero-energy_building).
 
 ### Major Goals
 
