@@ -26,3 +26,7 @@ Baseline price on 3/12 pitch, 26 gage: $4/sf.
 * lay 30# saturated asphalt felt paper (staple)
 * install drip edge (prepunch holes, nail every 2' OC max)
 * install roofing
+
+### installers
+
+* Bob Miller
