@@ -1,37 +1,20 @@
 
 # A Prioritized To-Do List
 
-### right away
+### Soon
 
-* replace all single pane windows (#8)
-    * insulate the walls (#16)
-* crawl space: concrete floor (#20)
-* crawl foundation walls: waterproof & insulate (#22)
-* great room: insulate floor (#1)
-* route water from roof away from building (#6)
-
-### summer 2016
-
+* kitchen: full renovation (#47)
 * south roofs: insulate (related to #18)
-* garage wiring
-    * N. wall outlets
-* garage: insulate interior walls (#4)
+* crawl foundation walls: waterproof & insulate (#22)
+* route water from roof away from building (#6)
 * garage: drywall & paint white
-* great room: insulate ceiling
-
-### 2016
-
 * garage: storage racks (#11)
 * living room: built-in window seats
 
 ### future
 
-* remove brick chimney (#19)
-    * replace 80% efficient gas furnace (#3)
-        * with ductless heat pumps
-        * install ventilation system
 * replace two South roofs (#18)
-* kitchen: full renovation (#47)
+* great room: insulate ceiling
 * enlarge upstairs bathroom
     * expand into master closet
     * new master closet from Kayla's room
@@ -66,7 +49,15 @@ Completed items are listed for reference.
     * dispose of old fridge & freezer in garage (#35)
     * great room: install solar tinting on west windows (#32)
     * great room: replace skylights (#17)
+    * great room: insulate floor (#1)
     * get a Home Energy Evaluation (#10)
+    * replace all single pane windows (#8)
+    * insulate the walls (#16)
+    * crawl space: concrete floor (#20)    
+    * replace 80% efficient gas furnace (#3)
+        * with ductless heat pumps
 * get a composter (#31)
 * upgrade door locks  (#30)
 * replace mailbox with locker (#27)
+* garage: insulate interior walls (#4)
+* remove brick chimney (#19)
