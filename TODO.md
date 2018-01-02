@@ -3,13 +3,10 @@
 
 ### Soon
 
-* kitchen: full renovation (#47)
-* south roofs: insulate (related to #18)
 * crawl foundation walls: waterproof & insulate (#22)
 * route water from roof away from building (#6)
 * garage: drywall & paint white
 * garage: storage racks (#11)
-* living room: built-in window seats
 
 ### future
 
@@ -56,8 +53,11 @@ Completed items are listed for reference.
     * crawl space: concrete floor (#20)    
     * replace 80% efficient gas furnace (#3)
         * with ductless heat pumps
+    * south roofs: insulate (related to #18)
 * get a composter (#31)
 * upgrade door locks  (#30)
 * replace mailbox with locker (#27)
 * garage: insulate interior walls (#4)
 * remove brick chimney (#19)
+* kitchen: full renovation (#47)
+* living room: built-in window seats
