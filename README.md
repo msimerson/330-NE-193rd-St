@@ -1,6 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=ready&title=Ready)](https://waffle.io/msimerson/330-NE-193rd-St)
-[![Stories in Progress](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=in%20progress&title=In%20Progress)](https://waffle.io/msimerson/330-NE-193rd-St)
-[![Stories in Pending](https://badge.waffle.io/msimerson/330-NE-193rd-St.png?label=pending&title=Pending)](https://waffle.io/msimerson/330-NE-193rd-St)
 # 330 NE 193rd St
 
 ![Front of House](https://cloud.githubusercontent.com/assets/261635/15229020/c647f630-1843-11e6-8d34-6ab782d1749d.jpg)
