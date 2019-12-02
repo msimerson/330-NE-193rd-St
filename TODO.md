@@ -3,11 +3,6 @@
 
 ### Soon
 
-* crawl foundation walls: waterproof & insulate (#22)
-* route water from roof away from building (#6)
-* garage: drywall & paint white
-* garage: storage racks (#11)
-
 ### future
 
 * replace two South roofs (#18)
@@ -16,13 +11,16 @@
     * expand into master closet
     * new master closet from Kayla's room
         * wiring changes?
-    * future stairs to attic room
-* gravel driveway: replace with pavers (#7)
 
 ## Completed
 
 Completed items are listed for reference.
 
+* gravel driveway: replace with pavers / grass (#7)
+* garage: drywall & paint white
+* garage: storage racks (#11)
+* route water from roof away from building (#6)
+* crawl foundation walls: waterproof & insulate (#22)
 * install solar panels (#13)
 * Electrical
     * attach building ground to water main (#49)
