@@ -41,7 +41,7 @@
 * [buyers guide to green insulation](http://www.greenhomeguide.com/know-how/article/buyers-guide-to-green-insulation)
 
 ### Bulk / Truckload Vendors
-* [Insulation Depot](http://www.insulationdepot.com/index.cfm)
+* [Insulation Depot](http://www.insulationdepot.com/)
 * Craigslist (3" PolyIso truckload: $7k)
 
 ### * open cell Spray Polurethane Foam
