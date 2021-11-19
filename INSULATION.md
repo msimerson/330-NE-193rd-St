@@ -51,6 +51,5 @@
 ### **closed cell Spray Polurethane Foam
 
 Examples:
-* [Foam It Green](https://www.sprayfoamkit.com)
+* Foam It Green
 * [Honeywell](https://www.honeywell-blowingagents.com/applications/spray-polyurethane-foam-insulation/)
-* []()
